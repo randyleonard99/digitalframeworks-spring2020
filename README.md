@@ -26,7 +26,7 @@ Much of this class (and its syllabus) is based on Medill courses by the same nam
 
 ### Expectations
 
-* Join the class sessions or let me know if you can't make it. I understand these are tought times and that situations may occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed.
+* Join the class sessions or let me know if you can't make it. I understand these are tough times and that situations may occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed.
 * Complete assignments either during the session time or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
