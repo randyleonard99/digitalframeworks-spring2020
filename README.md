@@ -2,11 +2,11 @@
 
 ## Details
 
-**Instructor**: Sean McMinn
+**Instructor**: Randy Leonard
 
-**Contact**: sean.mcminn@northwestern.edu OR [@shmcminn](http://www.twitter.com/shmcminn) on Twitter
+**Contact**: Randall.Leonard@northwestern.edu OR [@shmcminn](http://www.twitter.com/shmcminn) on Twitter
 
-**Class time**: 6 p.m. - 9 p.m., Tuesdays
+**Class time**: 6 p.m. - 9 p.m., Tuesdays, April 7 to June 
 
 **Office hours**: By appointment
 
@@ -19,15 +19,15 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on [Rachel Shorey's Spring 2018 Digital Frameworks](https://github.com/rshorey/digitalframeworks-spring18) course at Northwestern University.
+Much of this class (and its syllabus) is based on Medill courses by the same name taught by [Sean McMinn of NPR](https://github.com/shmcminn/digitalframeworks-spring19) and [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) from the New York Times.
 
 
 ## Policies
 
 ### Expectations
 
-* Come to class or let me know if you can't make it. I understand that situations occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed to.
-* Complete assignments either in class or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
+* Join the class sessions or let me know if you can't make it. I understand these are tought times and that situations may occur that make it difficult to attend, and I'm willing to help you if you get in touch with me. Either way, you will be responsible for the material unless otherwise agreed.
+* Complete assignments either during the session time or as homework due before the next class. That means assignments are due at 6 p.m. on Tuesdays, unless otherwise stated.
    * Late assignments will only be accepted if you contact me **before** the class in which it was originally due and we reach an agreement. 
 * Submit assignments on Github (instructions in first lecture) as specified in the assignment.
 * Consume the news every week, and come to class with at least one story using data. I will randomly select several people to share a story at the beginning of class, so please have a link ready to go (and I will do the same). 
@@ -39,16 +39,16 @@ Much of this class (and its syllabus) is based on [Rachel Shorey's Spring 2018 D
 
 Your grade will be made up of three components:
 
-* 20%: Class attendance and participation, including presenting data stories when I call on you to do so
-* 50%: Assignments
-* 30%: Final project
+* 35%: Class attendance and participation, including presenting data stories when I call on you to do so
+* 45%: Assignments
+* 20%: Final project
 
 #### Assignment grading scale:
-* A: publishable with minimal edits
-* B: publishable with significant edits
-* C: would need reporter’s revision to be published
+* A: strong work which shows unique perspective and ernest effort, publishable with minimal edits. The kind of work from someone I'd recommend for a job or promotion.
+* B: decent work, showing some effort or decent success, publishable with significant edits. The kind of work that would be considered getting by at a job.
+* C: work that is wanting -- lacking effort or ingenuity and would need reporter’s revision to be published. This type of work does not lead to job security.
    * You can not get more than a C on an assignment if there are factual errors.
-* D: unpublishable, even with edits 
+* D: unpublishable work, even with edits. This would be work that is clearly not prefessional caliber. 
 * F: did not complete work as assigned
 
 
@@ -59,10 +59,11 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 
 ## Syllabus
 
-**Class 1: Start here!** (April 9)
-* [Assessment quiz](https://docs.google.com/forms/d/e/1FAIpQLSdedIUAUMuAeiMLaqgDMY5AEdxZnw70r2VzO-n3goUja-pWdQ/viewform)
+**Class 1: Here we are** (April 7)
+* What is a data story
 * What can data do
 * Steps to a data story:
+   * Identify a problem data can solve
    * Find data
    * Clean data
    * Analyze/interview data
@@ -70,42 +71,38 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Learn how to critique data stories/visualizations
 * Kinds of data journalism
 * Introduce final project
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
-**Class 2: Finding data** (April 16)
+**Class 2: Finding data** (April 14)
 * Government data
-* Guest: George Levines
 * Other data sources
 * Data types
 * Thinking critically about data
-* Guest speaker: George Levines, CQ Roll Call
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class2/assignment2.md)**: Compile own dataset
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment2.md)**: Compile own dataset
 
-**Class 3: Cleaning data**
+**Class 3: Cleaning data** (April 21)
 - Share data stories
 - Cleaning overview
 - Five cleaning activities done with partners
 - Advanced cleaning techniques using Sublime Text and Excel
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class3/assignment3.md)**: Clean a messy dataset
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment3.md)**: Clean a messy dataset
 
-**Class 4: Stats for journalists**
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class4/assignment4.md)**: Pitch a story
+**Class 4: Stats for journalists** (April 28)
+* Guest lecturer: [Sean McMinn](https://twitter.com/shmcminn), data editor at NPR
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment4.md)**: Pitch a story
 
-**Class 5: Analyzing data** 
-* **[Assignment](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class5/assignment5.md)**: 3 interesting questions to analyze a dataset
+**Class 5: Analyzing data** (May 5)
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment5.md)**: 3 interesting questions to analyze a dataset
 
-**Class 6: Data visualization**
-Guest speaker: [Joe Fox, The Washington Post](https://twitter.com/joemfox)
+**Class 6: Data visualization** (May 12)
 * **Assignment**: Work on final project
 
-**Class 7: Covering the federal government with data**
-* **[Assignment 7](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class7/assignment7.md)**: Public records story
+**Class 7: Covering the federal government with data** (May 19)
+* **[Assignment 7](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment7.md)**: Public records story
 
-**Class 8: Presenting/storytelling with data**
+**Class 8: Presenting/storytelling with data** (May 26)
 
-**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** 
-
-**Class 10: Bonus: Things smart people know more about than I do** 
+**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 2)
 
 ### [Final project](finalproject.md)
 
