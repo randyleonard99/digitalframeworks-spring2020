@@ -4,13 +4,13 @@
 
 **Instructor**: Randy Leonard
 
-**Contact**: Randall.Leonard@northwestern.edu OR [@shmcminn](http://www.twitter.com/shmcminn) on Twitter
+**Contact**: Randall.Leonard@northwestern.edu OR on Slack
 
-**Class time**: 6 p.m. - 9 p.m., Tuesdays, April 7 to June 
+**Class time**: 6-9 p.m., Tuesdays, April 7 to June 2
 
 **Office hours**: By appointment
 
-**Description**: Reporters find news every day by talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you how to use the huge number of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
+**Description**: Reporters find news every day by talking to people and unearthing their secrets. In this class, we're going to do the same — but with data. This is not a graphic design or programming class, but a course that will teach you the concepts behind data reporting, provide you a familiarity with various tools and give you some hands-on skills to help you use the huge number of datasets available to reporters in order to break news and help inform our readers through text and visuals. By the end of this course, you should be able to:
 
 * Find datasets relevant to a story you're reporting
 * Process and clean data
@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on Medill courses by the same name taught by [Sean McMinn of NPR](https://github.com/shmcminn/digitalframeworks-spring19) and [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) from the New York Times.
+Much of this class (and its syllabus) is based on Medill courses by the same name taught by [Sean McMinn](https://github.com/shmcminn/digitalframeworks-spring19)of NPR and [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) from the New York Times.
 
 
 ## Policies
@@ -44,7 +44,7 @@ Your grade will be made up of three components:
 * 20%: Final project
 
 #### Assignment grading scale:
-* A: strong work which shows unique perspective and ernest effort, publishable with minimal edits. The kind of work from someone I'd recommend for a job or promotion.
+* A: strong work which shows unique perspective and earnest effort, publishable with minimal edits. The kind of work from someone I'd recommend for a job or promotion.
 * B: decent work, showing some effort or decent success, publishable with significant edits. The kind of work that would be considered getting by at a job.
 * C: work that is wanting -- lacking effort or ingenuity and would need reporter’s revision to be published. This type of work does not lead to job security.
    * You can not get more than a C on an assignment if there are factual errors.
