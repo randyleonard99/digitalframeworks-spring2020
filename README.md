@@ -44,15 +44,15 @@ Your grade will be made up of three components:
 * 20%: Final project
 
 #### Class and Assignment grading scale:
-This quarter, courses including this one will be graded pass/fail **UNLESS** you opt out and chose the quality letter grade option in Caesar. You must activly make that change in Caesar if you want a letter grade.
+This quarter, courses including this one will be graded pass/fail **UNLESS** you opt out and chose the quality letter grade option in Caesar. You must actively make that change in Caesar if you want a letter grade.
 
-Individual assinments will receive letter grades on the following scale:
+Individual assignments will receive letter grades on the following scale:
 
 * A: strong work which shows unique perspective and earnest effort, publishable with minimal edits. The kind of work from someone I'd recommend for a job or promotion.
 * B: decent work, showing some effort or decent success, publishable with significant edits. The kind of work that would be considered getting by at a job.
 * C: work that is wanting -- lacking effort or ingenuity and would need reporter’s revision to be published. This type of work does not lead to job security.
    * You can not get more than a C on an assignment if there are factual errors.
-* D: unpublishable work, even with edits. This would be work that is clearly not prefessional caliber. 
+* D: nonpublishable work, even with edits. This would be work that is clearly not prefessional caliber. 
 * F: did not complete work as assigned
 
 
@@ -81,7 +81,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Overview of software, coding languages and tools for data reporting and visualization
 * Excel/Sheets, Tableau, R, Python and QGIS
 * Other common tools
-* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1a.md)**: Find a favorite tool to become failiar with and use throughout the course
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1a.md)**: Find a favorite tool to become familiar with and use throughout the course
 
 **Class 4: Finding data** (April 21)
 * Government data
