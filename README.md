@@ -44,7 +44,7 @@ Your grade will be made up of three components:
 * 20%: Final project
 
 #### Class and Assignment grading scale:
-This quarter, courses including this one will be graded pass/fail **UNLESS** you opt out and chose the quality letter grade option in Ceasar. You must activly make that change in Ceaser if you want a letter grade.
+This quarter, courses including this one will be graded pass/fail **UNLESS** you opt out and chose the quality letter grade option in Caesar. You must activly make that change in Caesar if you want a letter grade.
 
 Individual assinments will receive letter grades on the following scale:
 
