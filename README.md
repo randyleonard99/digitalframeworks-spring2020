@@ -77,40 +77,46 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Introduce final project
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
-**Class 2: Finding data** (April 14)
+**Class 3: Tools of the trade** (April 14)
+* Overview of software, coding languages and tools for data reporting and visualization
+* Excel/Sheets, Tableau, R, Python and QGIS
+* Other common tools
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1a.md)**: Find a favorite tool to become failiar with and use throughout the course
+
+**Class 4: Finding data** (April 21)
 * Government data
 * Other data sources
 * Data types
 * Thinking critically about data
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment2.md)**: Compile own dataset
 
-**Class 3: Cleaning data** (April 21)
+**Class 4: Stats for journalists** (April 28)
+* Guest lecturer: [Sean McMinn](https://twitter.com/shmcminn), data editor at NPR
+* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment4.md)**: Pitch a story
+
+**Class 5: Cleaning data** (May 5)
 - Share data stories
 - Cleaning overview
 - Five cleaning activities done with partners
 - Advanced cleaning techniques using Sublime Text and Excel
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment3.md)**: Clean a messy dataset
 
-**Class 4: Stats for journalists** (April 28)
-* Guest lecturer: [Sean McMinn](https://twitter.com/shmcminn), data editor at NPR
-* **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment4.md)**: Pitch a story
-
-**Class 5: Analyzing data** (May 5)
+**Class 6: Analyzing data** (May 12)
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment5.md)**: 3 interesting questions to analyze a dataset
 
-**Class 6: Data visualization** (May 12)
+**Class 6: Data visualization** (May 19)
 * **Assignment**: Work on final project
 
-**Class 7: Covering the federal government with data** (May 19)
+**Class 7: Covering the federal government with data** (May 26)
 * **[Assignment 7](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment7.md)**: Public records story
 
-**Class 8: Presenting/storytelling with data** (May 26)
+**Class 8: Presenting/storytelling with data** (May June 2)
 
-**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 2)
+**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 9)
 
 ### [Final project](finalproject.md)
 
-Due by the second-to-last class (on June 11) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two proposals for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
+Due by the second-to-last class (on June 2) will be a data-driven story of between 1,000 and 1,350 words. This should include at least two workable drafts for data visualizations and interviews with multiple sources. The graphics for this story should be integrated into the story's presentation — not separate pieces. Unless otherwise discussed, the "nut graf" of your story should be something you discovered using the data skills covered in this course. 
 
 **Other issues with remote coursework**
 Students are expected to log in at the appointed time from remote locations. Canvas and Zoom activities during the appointed class time will be part of your participation grade. That said, there may be a variety of reasons including illness, technical difficulties and time zone differences—that could hamper perfect attendance and require accommodations and alternative options. To mitigate difficulties, please adhere to the following practices:
