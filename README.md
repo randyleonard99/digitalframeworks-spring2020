@@ -19,7 +19,7 @@
 * Speak the language of reporters and technologists who use data to tell stories
 * Identify common problems with data and think critically about its use in news reporting
 
-Much of this class (and its syllabus) is based on Medill courses by the same name taught by [Sean McMinn](https://github.com/shmcminn/digitalframeworks-spring19)of NPR and [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) from the New York Times.
+Much of this class (and its syllabus) is based on Medill courses by the same name taught by [Sean McMinn](https://github.com/shmcminn/digitalframeworks-spring19) of NPR and [Rachel Shorey](https://github.com/rshorey/digitalframeworks-spring18) from the New York Times.
 
 
 ## Policies
