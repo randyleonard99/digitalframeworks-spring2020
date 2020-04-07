@@ -52,7 +52,7 @@ Individual assignments will receive letter grades on the following scale:
 * B: decent work, showing some effort or decent success, publishable with significant edits. The kind of work that would be considered getting by at a job.
 * C: work that is wanting -- lacking effort or ingenuity and would need reporter’s revision to be published. This type of work does not lead to job security.
    * You can not get more than a C on an assignment if there are factual errors.
-* D: nonpublishable work, even with edits. This would be work that is clearly not prefessional caliber. 
+* D: nonpublishable work, even with edits. This would be work that is clearly not professional caliber. 
 * F: did not complete work as assigned
 
 
@@ -77,13 +77,13 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 * Introduce final project
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1.md)**: Come up with two final project ideas, complete first data reporting critique on a published data story related to each topic
 
-**Class 3: Tools of the trade** (April 14)
+**Class 2: Tools of the trade** (April 14)
 * Overview of software, coding languages and tools for data reporting and visualization
 * Excel/Sheets, Tableau, R, Python and QGIS
 * Other common tools
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment1a.md)**: Find a favorite tool to become familiar with and use throughout the course
 
-**Class 4: Finding data** (April 21)
+**Class 3: Finding data** (April 21)
 * Government data
 * Other data sources
 * Data types
