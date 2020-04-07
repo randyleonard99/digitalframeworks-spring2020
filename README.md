@@ -6,7 +6,7 @@
 
 **Contact**: Randall.Leonard@northwestern.edu OR on Slack
 
-**Class time**: On Zoom 6-9 p.m., Tuesdays, April 7 to June 2
+**Class time**: On Zoom 6-9 p.m., Tuesdays, April 7 to June 9
 
 **Office hours**: By appointment
 
