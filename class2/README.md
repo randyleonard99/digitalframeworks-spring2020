@@ -5,7 +5,6 @@
 ### Lecture
 
 * Government data
-* Guest: George Levines
 * Other data sources
 * Data types
 * Thinking critically about data
