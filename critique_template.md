@@ -28,7 +28,7 @@ This is almost entirely from [Alberto Cairo](https://twitter.com/albertocairo) a
 
 ### Objective: Type and color (if piece includes graphics)
 
-* Based on your knowledge of color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
+* Considering color and type use, did this person use type (as in typography, fonts) and color to their best purpose?
    * For example, did it: 
        * Look like it all belonged together?
        * Draw your eye first to the most important pieces of information?
