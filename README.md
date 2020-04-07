@@ -1,4 +1,4 @@
-# Digital Frameworks Spring 2019
+# Digital Frameworks Spring 2020
 
 ## Details
 
