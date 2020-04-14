@@ -11,11 +11,11 @@ _**"Create a summary, showing the number of opioid prescriptions written by each
 For the assignment you will turn in:
 1. Change this code to find the doctors outside of California:
 
-`# license revokations for doctors based in California, by year
-revoked_ca_year <- ca_discipline %>%
-  filter(action_type == "Revoked"
-         & state == "CA") %>%
-  group_by(year) %>%
-  summarize(revocations = n())`
+`# license revokations for doctors based in California, by year`\
+`revoked_ca_year <- ca_discipline %>%`\
+  `filter(action_type == "Revoked"`\
+         `& state == "CA") %>%`\
+  `group_by(year) %>%`\
+  `summarize(revocations = n())`
   
 Take a screen shot of your table and upload that to your GitHub repo and paste the link in Canvas Assignment 2.
