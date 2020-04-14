@@ -13,4 +13,4 @@
 
 ### Activity
 * Github/markdown training
-   * Put your repo link in [here](https://docs.google.com/forms/d/e/1FAIpQLSdD2Z-xjCkrRAqSs8jb-UmiBXXWTnKVWg55rhLVvmn0YkcuQw/viewform)  
+   * Put your repo link in the class Slack channel.
