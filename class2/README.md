@@ -2,17 +2,33 @@
 
 ## Agenda
 
-### Lecture
+### Sharing work we've seen
 
-* Government data
-* Other data sources
-* Data types
-* Thinking critically about data
+* We'll break into groups to discuss items that moved us this week 
 
-#### Activity: Analyze a dubious database
+### Lecture - Tools of the trade
 
-* Making your own database
+* Excel
+* Tableau
+* R
+* Python
+* D3
+* QGIS
+
+
+### Activity: Pick up a tool
+
+* We'll break into groups and get started with the basics of the particular tool you've chosen
 
 ### Resources
 
-* Previous speakers: [George LeVines](https://docs.google.com/presentation/d/18ynEFej8guB28iLbIeM-w0CLCRGpCv7pkhRdDSbHbks/edit#slide=id.g3289e4ba91_0_61) george.levines@gmail.com and [CJ Ciaramella on FOIA](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class2/How%20to%20get%20public%20records.pptx?raw=true) 
+[NICAR-L listserve](https://www.ire.org/resource-center/listservs/subscribe-to-nicar-l) – conversations on these and more tools, archives online
+[stackoverflow](https://stackoverflow.com/questions) – coding Q&A
+[ExcelJet](https://exceljet.net/) – Excel tips and tricks
+[Tableau Public resources](https://public.tableau.com/en-us/s/resources) – tutorials and Q&A
+[Getting started](https://paldhous.github.io/NICAR/2018/r-analysis.html) in RStudio, by Peter Aldhous of BuzzFeed
+[First Python notebook](https://www.firstpythonnotebook.org/) – step-by-step setup and intro to Python
+[Beginning D3](https://github.com/darlacameron/beginning-d3-nicar-2018) – NICAR session by Darla Cameron of Texas Tribune
+[Sublime Text](https://www.sublimetext.com/) – free text editor for coding (or VS Code)
+[Making maps with QGIS](https://paldhous.github.io/NICAR/2015/qgis.html) - by Peter Aldhous of BuzzFeed
+
