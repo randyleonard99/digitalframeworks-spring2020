@@ -6,7 +6,7 @@ Follow the [Getting started in R](https://paldhous.github.io/NICAR/2018/r-analys
 
 Make your way together until you get to:
 
-**Create a summary, showing the number of opioid prescriptions written by each doctor, the total cost of the opioids prescribed, and the cost per claim**
+_**"Create a summary, showing the number of opioid prescriptions written by each doctor, the total cost of the opioids prescribed, and the cost per claim"**_
 
 ## Assignment:
 For the assignment you will turn in:
