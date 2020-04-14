@@ -12,7 +12,6 @@ For the assignment you will turn in:
 1. Change this code to find the doctors outside of California:
 
 `# license revokations for doctors based in California, by year
-
 revoked_ca_year <- ca_discipline %>%
   filter(action_type == "Revoked"
          & state == "CA") %>%
