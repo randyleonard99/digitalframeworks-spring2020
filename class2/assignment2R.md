@@ -1,7 +1,11 @@
 # Assignment 2: Tools of the trade: R
+
 As a group, download and install [RStudio](https://www.rstudio.com/)
+
 Follow the [Getting started in R](https://paldhous.github.io/NICAR/2018/r-analysis.html) tutorial by Peter Aldhous using his [data file](https://paldhous.github.io/NICAR/2018/data/r-analysis.zip) which you can unzip and place on your desktop.
+
 Make your way together until you get to:
+
 **Create a summary, showing the number of opioid prescriptions written by each doctor, the total cost of the opioids prescribed, and the cost per claim**
 
 ## Assignment:
