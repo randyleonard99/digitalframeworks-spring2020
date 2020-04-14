@@ -24,11 +24,11 @@
 
 * [NICAR-L listserve](https://www.ire.org/resource-center/listservs/subscribe-to-nicar-l) – conversations on these and more tools, archives online
 * [stackoverflow](https://stackoverflow.com/questions) – coding Q&A
-* [ExcelJet](https://exceljet.net/) – Excel tips and tricks
+* [Excel magic](https://mjwebster.github.io/DataJ/tipsheets/ExcelMagic.pdf) – Tips and tricks from MaryJo Webster of the Star Tribune
 * [Tableau Public resources](https://public.tableau.com/en-us/s/resources) – tutorials and Q&A
 * [Getting started](https://paldhous.github.io/NICAR/2018/r-analysis.html) in RStudio, by Peter Aldhous of BuzzFeed
 * [First Python notebook](https://www.firstpythonnotebook.org/) – step-by-step setup and intro to Python
-* [Beginning D3](https://github.com/darlacameron/beginning-d3-nicar-2018) – NICAR session by Darla Cameron of Texas Tribune
+* [Beginning D3](https://github.com/darlacameron/beginning-d3-nicar-2018) – NICAR session by Darla Cameron of the Texas Tribune
 * [Sublime Text](https://www.sublimetext.com/) – free text editor for coding (or VS Code)
 * [Making maps with QGIS](https://paldhous.github.io/NICAR/2015/qgis.html) - by Peter Aldhous of BuzzFeed
 
