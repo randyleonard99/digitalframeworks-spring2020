@@ -1,4 +1,4 @@
-# Assignment 2: Tools of the trade: D#
+# Assignment 2: Tools of the trade: D3
 As a group, first work through [Beginning D3](https://github.com/darlacameron/beginning-d3-nicar-2018), NICAR session by Darla Cameron of the Texas Tribune.
 
 ## Assignment:
