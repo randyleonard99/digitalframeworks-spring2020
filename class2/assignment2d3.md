@@ -3,4 +3,4 @@ As a group, first work through [Beginning D3](https://github.com/darlacameron/be
 
 ## Assignment:
 For the assignment do the first three lessons on the [D3 Free Code Camp](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)\
-Save each of the finished scripts in one .html file., commit to your GitHub repo and submit the link for Assignment 2 on Canvas.
+Save all of the finished scripts in one .html file., commit to your GitHub repo and submit the link for Assignment 2 on Canvas.
