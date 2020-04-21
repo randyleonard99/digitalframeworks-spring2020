@@ -1,10 +1,18 @@
-# Class 3: Cleaning data
+# Class 2
 
-### Agenda
+## Agenda
 
-- Share data stories
-- Cleaning overview
-- Five cleaning activities done with partners
-- Advanced cleaning techniques using Sublime Text and Excel
+### Lecture
 
-[Assignment 3: Clean some data](assignment3.md)
+* Government data
+* Other data sources
+* Data types
+* Thinking critically about data
+
+#### Activity: Analyze a dubious database
+
+* Making your own database
+
+### Resources
+
+* Previous speakers: [George LeVines](https://docs.google.com/presentation/d/18ynEFej8guB28iLbIeM-w0CLCRGpCv7pkhRdDSbHbks/edit#slide=id.g3289e4ba91_0_61) george.levines@gmail.com and [CJ Ciaramella on FOIA](https://github.com/shmcminn/digitalframeworks-spring19/blob/master/class2/How%20to%20get%20public%20records.pptx?raw=true) 
