@@ -104,15 +104,15 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 6: Analyzing data** (May 12)
 * **[Assignment](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment5.md)**: 3 interesting questions to analyze a dataset
 
-**Class 6: Data visualization** (May 19)
+**Class 7: Data visualization** (May 19)
 * **Assignment**: Work on final project
 
-**Class 7: Covering the federal government with data** (May 26)
+**Class 8: Covering the federal government with data** (May 26)
 * **[Assignment 7](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment7.md)**: Public records story
 
-**Class 8: Presenting/storytelling with data** (June 2)
+**Class 9: Presenting/storytelling with data** (June 2)
 
-**Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 9)
+**Class 10: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 9)
 
 ### [Final project](finalproject.md)
 
