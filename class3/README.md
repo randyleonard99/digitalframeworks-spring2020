@@ -1,4 +1,4 @@
-# Class 2
+# Class 3 Finding Data
 
 ## Agenda
 
@@ -9,7 +9,9 @@
 * Data types
 * Thinking critically about data
 
-#### Activity: Analyze a dubious database
+#### Activity: Continue learning chosen tool
+
+### Assignment 3
 
 * Making your own database
 
