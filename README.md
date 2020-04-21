@@ -110,7 +110,7 @@ Students are encouraged to discuss assignments. For the most part, you will be w
 **Class 7: Covering the federal government with data** (May 26)
 * **[Assignment 7](https://github.com/randyleonard99/digitalframeworks-spring2020/blob/master/class1/assignment7.md)**: Public records story
 
-**Class 8: Presenting/storytelling with data** (May June 2)
+**Class 8: Presenting/storytelling with data** (June 2)
 
 **Class 9: What the hell is an API, and other questions I was too afraid to ask -- plus final assignment interviews** (June 9)
 
