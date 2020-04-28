@@ -1,4 +1,4 @@
-# Assignment 4: Story Pitch
+# Assignment 4: Story Pitch __
 
 Develop and write out your final story pitch. Schedule a time to talk with me about it (should take about 20 minutes) either in person or on the phone. 
 
